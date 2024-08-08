@@ -1,4 +1,3 @@
-![createCompany](https://github.com/user-attachments/assets/a7b9d193-443a-4e2e-a00d-c43823705d6a)# Jobify
 
 Jobify is a MERN stack application that allows an admin to manage companies and their respective job listings. The app includes features like authentication, company management, and job listing management.
 
